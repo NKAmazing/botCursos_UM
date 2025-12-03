@@ -4,3 +4,4 @@ python-dotenv
 flask_sqlalchemy
 selenium
 webdriver-manager
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
